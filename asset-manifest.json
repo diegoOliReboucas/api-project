@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/api-project/static/css/main.07440af7.css",
+    "main.js": "/api-project/static/js/main.1de23d16.js",
+    "static/media/wather.jpg": "/api-project/static/media/wather.ab89d11034f558f700fc.jpg",
+    "static/media/ice.jpg": "/api-project/static/media/ice.2b12047a1664b6bd9624.jpg",
+    "static/media/ground.jpg": "/api-project/static/media/ground.06da8d22ec6ac349fb64.jpg",
+    "static/media/psy.png": "/api-project/static/media/psy.8ca0ff08f0208c778cc8.png",
+    "static/media/portugalFlag.png": "/api-project/static/media/portugalFlag.f6eae4ea24e8f7f28741.png",
+    "static/media/fire.jpg": "/api-project/static/media/fire.ac905cfcab377a1805e2.jpg",
+    "static/media/ghost.jpg": "/api-project/static/media/ghost.a48fc134e03b4f5d92c9.jpg",
+    "static/media/bug.jpg": "/api-project/static/media/bug.3972d89aaa2adb44c2fe.jpg",
+    "static/media/grass.jpg": "/api-project/static/media/grass.90a8c888741f85c1167a.jpg",
+    "static/media/euaFlag.png": "/api-project/static/media/euaFlag.e6735b48d0132a7a8c7d.png",
+    "static/media/economiaBack.jpg": "/api-project/static/media/economiaBack.6952f758ef8e2f7c387a.jpg",
+    "static/media/poison.jpg": "/api-project/static/media/poison.5c6bca2f2996b22905f0.jpg",
+    "static/media/arLivre.jpg": "/api-project/static/media/arLivre.0776dae2457424bcb389.jpg",
+    "static/media/raio.webp": "/api-project/static/media/raio.3bd876cd86a6c5e163af.webp",
+    "static/media/rock.jpg": "/api-project/static/media/rock.fd96c434eadce31053ea.jpg",
+    "static/media/fight.jpg": "/api-project/static/media/fight.8dbb3f5b32aa2bc076db.jpg",
+    "static/media/fairy.webp": "/api-project/static/media/fairy.9f59b8e455651aacf0cd.webp",
+    "static/media/engre.png": "/api-project/static/media/engre.67737f074250b957db7e.png",
+    "static/media/brasilFlag.webp": "/api-project/static/media/brasilFlag.c2eea9f1bf70450b0946.webp",
+    "index.html": "/api-project/index.html",
+    "main.07440af7.css.map": "/api-project/static/css/main.07440af7.css.map",
+    "main.1de23d16.js.map": "/api-project/static/js/main.1de23d16.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07440af7.css",
+    "static/js/main.1de23d16.js"
+  ]
+}
